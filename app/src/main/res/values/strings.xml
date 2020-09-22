@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Trackrun</string>
+    <string name="google_maps_key">AIzaSyAJDSFo3NnwQ1i5Gq7GpID7ByKxmBn92qs</string>
 </resources>
